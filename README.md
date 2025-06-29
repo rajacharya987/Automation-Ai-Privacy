@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Effective Date: 2025/06/29
+Effective Date: **2025/06/29**
 
 This Privacy Policy describes how Automation-Ai ("we", "our", or "us") collects, uses, and protects the information of users ("you") when using our services, including any automation tools and integrations with third-party platforms such as Instagram (by Meta).
 
