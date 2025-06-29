@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Effective Date: [Insert Date]
+Effective Date: 2025/06/29
 
 This Privacy Policy describes how Automation-Ai ("we", "our", or "us") collects, uses, and protects the information of users ("you") when using our services, including any automation tools and integrations with third-party platforms such as Instagram (by Meta).
 
@@ -57,7 +57,7 @@ To make a request, please contact us at: **razzacharya6@gmail.com**
 **7. Data Deletion**
 
 To delete your data, please visit:  
-**https://automation-ai.com/delete-data** *(or contact us via email if this link is not active yet)*
+**https://portfolio-bz7.pages.dev/** *(or contact us via email if this link is not active yet)*
 
 **8. Changes to This Policy**
 
